@@ -1,4 +1,4 @@
-# fruit
+# multilanguage simple project using getx
 
 A new Flutter project.
 
